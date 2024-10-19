@@ -1,0 +1,94 @@
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\Client.exe.config
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\Client.exe
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\Client.pdb
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\obj\Debug\Client.EmployeeController.resources
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\obj\Debug\Client.Properties.Resources.resources
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\obj\Debug\Client.exe
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\obj\Debug\Client.pdb
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\RestSharp.dll
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\System.Buffers.dll
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\System.Memory.dll
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\System.Numerics.Vectors.dll
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\System.Text.Encodings.Web.dll
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\System.Text.Json.dll
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\System.ValueTuple.dll
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\RestSharp.xml
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\System.Buffers.xml
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\System.Memory.xml
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\System.Numerics.Vectors.xml
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\System.Text.Encodings.Web.xml
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\System.Text.Json.xml
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\bin\Debug\System.ValueTuple.xml
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\Client\obj\Debug\Client.csproj.CopyComplete
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\obj\Debug\Client.EmployeeController.resources
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\obj\Debug\Client.Properties.Resources.resources
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\obj\Debug\Client.exe
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\obj\Debug\Client.pdb
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\Client.exe.config
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\Client.exe
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\Client.pdb
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\RestSharp.dll
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\System.Buffers.dll
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\System.Memory.dll
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\System.Numerics.Vectors.dll
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\System.Text.Encodings.Web.dll
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\System.Text.Json.dll
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\System.ValueTuple.dll
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\RestSharp.xml
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\System.Buffers.xml
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\System.Memory.xml
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\System.Numerics.Vectors.xml
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\System.Text.Encodings.Web.xml
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\System.Text.Json.xml
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\bin\Debug\System.ValueTuple.xml
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\Client\obj\Debug\Client.csproj.CopyComplete
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\Client.exe.config
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\Client.exe
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\Client.pdb
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\RestSharp.dll
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\System.Buffers.dll
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\System.Memory.dll
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\System.Numerics.Vectors.dll
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\System.Text.Encodings.Web.dll
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\System.Text.Json.dll
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\System.ValueTuple.dll
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\RestSharp.xml
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\System.Buffers.xml
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\System.Memory.xml
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\System.Numerics.Vectors.xml
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\System.Text.Encodings.Web.xml
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\System.Text.Json.xml
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\testsPO\LAB\EmployeesSalaryController\Client\bin\Debug\System.ValueTuple.xml
+D:\testsPO\LAB\EmployeesSalaryController\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\testsPO\LAB\EmployeesSalaryController\Client\obj\Debug\Client.EmployeeController.resources
+D:\testsPO\LAB\EmployeesSalaryController\Client\obj\Debug\Client.Properties.Resources.resources
+D:\testsPO\LAB\EmployeesSalaryController\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\testsPO\LAB\EmployeesSalaryController\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\testsPO\LAB\EmployeesSalaryController\Client\obj\Debug\Client.csproj.Up2Date
+D:\testsPO\LAB\EmployeesSalaryController\Client\obj\Debug\Client.exe
+D:\testsPO\LAB\EmployeesSalaryController\Client\obj\Debug\Client.pdb
