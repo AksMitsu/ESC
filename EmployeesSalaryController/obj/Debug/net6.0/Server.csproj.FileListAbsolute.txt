@@ -1,0 +1,54 @@
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\Server.exe
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\Server.deps.json
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\Server.runtimeconfig.json
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\Server.dll
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\Server.pdb
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.AssemblyInfo.cs
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.dll
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\refint\Server.dll
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.pdb
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.genruntimeconfig.cache
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\ref\Server.dll
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\Server.exe
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\Server.deps.json
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\Server.runtimeconfig.json
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\Server.dll
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\Server.pdb
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.AssemblyInfo.cs
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.dll
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\refint\Server.dll
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.pdb
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.genruntimeconfig.cache
+D:\ВУЗ\TestOS\LAB\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\ref\Server.dll
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\System.Windows.Forms.dll
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\Accessibility.dll
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\System.Deployment.dll
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.dll
+E:\1. ВУЗ\ТестированиеПО\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.csproj.CopyComplete
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\Server.exe
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\Server.deps.json
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\Server.runtimeconfig.json
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\Server.dll
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\Server.pdb
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\System.Windows.Forms.dll
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\Accessibility.dll
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\System.Deployment.dll
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.dll
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.AssemblyInfo.cs
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.csproj.Up2Date
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.dll
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\refint\Server.dll
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.pdb
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\Server.genruntimeconfig.cache
+D:\testsPO\LAB\EmployeesSalaryController\EmployeesSalaryController\obj\Debug\net6.0\ref\Server.dll

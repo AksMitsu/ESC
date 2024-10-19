@@ -1,0 +1,1 @@
+[{"Name":"EngineerTest","Post":"Engineer","Salary":300,"WorkedHours":8,"Tax":0.87},{"Name":"ManagerTest","Post":"Manager","Salary":0,"WorkedHours":0,"Tax":0.87,"ContractBonus":26550},{"Name":"PorterTest","Post":"Porter","Salary":0,"WorkedHours":0,"Tax":0.87,"Items":10,"ItemPrice":500}]
